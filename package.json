@@ -1,0 +1,22 @@
+{
+  "name": "netlify-demo",
+  "version": "1.0.0",
+  "description": "A demo using netlify dev and netlify cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyu3169/netlify-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiyu3169/netlify-demo/issues"
+  },
+  "homepage": "https://github.com/shiyu3169/netlify-demo#readme",
+  "dependencies": {
+    "random-words": "^1.1.0"
+  }
+}
